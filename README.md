@@ -56,14 +56,6 @@ The Power BI dashboard includes:
 2. Open in Power BI Desktop
 3. Explore the dashboard
 
----
-
-## 📎 Project Demo (Optional)
-
-(Add YouTube or Drive link here)
-
----
-
 ## 👩‍💻 Author
 
 Asmita Sonawane
